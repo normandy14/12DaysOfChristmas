@@ -13,3 +13,15 @@ Two puzzles will be made available on each day in the Advent calendar; the secon
 Some problems were attempted, but not completed
 
 The link to the original site is  [here](https://adventofcode.com/).
+
+### Note
+
+All problems were attempted, but not all were successfully solved
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 [License](License.md) - see the LICENSE.md file for details
+
+## Authors
+
+* :ocean: **Normandy14** - *Initial work* - [Github Account](https://github.com/Normandy14)
